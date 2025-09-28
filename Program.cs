@@ -96,11 +96,11 @@
 //ShowWelcomeMessage();
 //Console.WriteLine(GetWeather());
 //ShowGoodbyeMessage();
-int Factorial(int n)
-{
-    if (n == 1) return 1;
-    return n * Factorial(n - 1);
-}
+//int Factorial(int n)
+//{
+//    if (n == 1) return 1;
+//    return n * Factorial(n - 1);
+//}
 //int factorial = Factorial(4);
 //int factorial2 = Factorial(5);
 //int factorial3 = Factorial(6);
