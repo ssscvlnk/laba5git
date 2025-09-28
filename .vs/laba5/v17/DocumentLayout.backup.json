@@ -22,12 +22,16 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User2780\\source\\repos\\laba5\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\User2780\\source\\repos\\laba5\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAkwGkAAAAgAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User2780\\source\\repos\\laba5\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAG8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-22T09:12:26.232Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
